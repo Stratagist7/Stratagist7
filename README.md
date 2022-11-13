@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Stratagist7
-- 👀 I’m interested in video games and programming
-- 🌱 I’m currently learning C# and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hey, I’m Haley aka @Stratagist7 
+- 👀 I’m interested in video games and game development
+- 📚 I have experience in C#, Python, Java, and JavaScript
+- 🌱 I’m currently learning C++
+- 📫 Reach me haley.vlahos@gmail.com
 
 <!---
 Stratagist7/Stratagist7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
