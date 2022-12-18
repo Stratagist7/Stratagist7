@@ -1,7 +1,7 @@
 - 👋 Hey, I’m Haley aka @Stratagist7 
 - 👀 I’m interested in video games and game development
 - 📚 I have experience in C#, Python, Java, and JavaScript
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Unreal Engine
 - 📫 Reach me haley.vlahos@gmail.com
 
 <!---
