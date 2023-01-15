@@ -2,7 +2,8 @@
 - 👀 I’m interested in video games and game development
 - 📚 I have experience in C#, Python, Java, and JavaScript
 - 🌱 I’m currently learning C++ and Unreal Engine
-- 📫 Reach me haley.vlahos@gmail.com
+- 📫 Reach me at haley.vlahos@gmail.com
+- 🎮 View my games on Itch at https://stratagist.itch.io/
 
 <!---
 Stratagist7/Stratagist7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
